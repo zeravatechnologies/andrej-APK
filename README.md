@@ -7,7 +7,17 @@ Download links for every Android app (APK) from the
 [andrejristic](https://github.com/andrejristic) repositories. The list updates itself every hour.
 
 <!-- APK-INDEX:START -->
-_Još nema objavljenih APK fajlova. · No APKs published yet._
+| Aplikacija · App | Verzija · Version | Datum · Date | Preuzmi · Download |
+|---|---|---|---|
+| [attack_mapper](https://github.com/andrejristic/attack_mapper)<br><sub>Multi-turn attack-surface mapper: detect jailbreaks & attack patterns in AI conversations</sub> | v0.9.0-test | 2026-11-25 | test: [attack-mapper-0.9.0-test-test.apk](https://github.com/andrejristic/attack_mapper/releases/download/v0.9.0-test/attack-mapper-0.9.0-test-test.apk) |
+
+<details><summary>Sve verzije · All builds</summary>
+
+**attack_mapper**
+
+- [attack-mapper-0.9.0-test-test.apk](https://github.com/andrejristic/attack_mapper/releases/download/v0.9.0-test/attack-mapper-0.9.0-test-test.apk) · v0.9.0-test _(test)_ · 2026-11-25 · 86.4 MB
+
+</details>
 <!-- APK-INDEX:END -->
 
 **Test** verzije su za probu pre zvaničnog izdanja. Mogu se instalirati pored zvanične verzije.
